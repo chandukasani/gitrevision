@@ -1,3 +1,7 @@
 chndu
 chandu kasani
+<<<<<<< HEAD
 relangi
+=======
+india
+>>>>>>> feature
